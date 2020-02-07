@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423124246333",
+    "firebase_url": "https://lista-de-pautas.firebaseio.com",
+    "project_id": "lista-de-pautas",
+    "storage_bucket": "lista-de-pautas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423124246333:android:96030a9852a400b309ef54",
+        "android_client_info": {
+          "package_name": "com.example.lista_de_pautas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423124246333-oo3obamli4po58chjhvveae9pmc1hqvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_PB_SWKwzHYe2uEGTmwCAn3GNn01QDS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423124246333-oo3obamli4po58chjhvveae9pmc1hqvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
