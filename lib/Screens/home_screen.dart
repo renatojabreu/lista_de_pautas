@@ -177,7 +177,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             onPressed: () {
                               _addPauta();
                             })
-                      ]);
+                      ]); //
                 });
           },
           tooltip: 'Adicionar',
